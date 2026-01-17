@@ -33,3 +33,11 @@
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.  
 Ответ:  
 <img width="478" height="408" alt="Задание 3" src="https://github.com/user-attachments/assets/4ee68389-7dc1-4de1-a5d7-1e63a6fc614b" />  
+Задание 4. Запись данных в Redis  
+  
+Запишите в Redis несколько ключей с любыми именами и значениями.  
+Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.  
+Ответ:  
+<img width="973" height="340" alt="Задание 4-1" src="https://github.com/user-attachments/assets/40a55b49-4aaf-4709-95eb-a9c642c0fa1a" />  
+<img width="561" height="317" alt="Задание 4-2" src="https://github.com/user-attachments/assets/c3553376-0b75-49de-ad33-1e758efe24eb" />  
+
