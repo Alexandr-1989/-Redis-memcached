@@ -26,4 +26,10 @@
 Установите и запустите memcached.  
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.  
 Ответ:  
-<img width="1042" height="278" alt="Задание 2" src="https://github.com/user-attachments/assets/f3e73920-341b-4906-932d-c316f0292484" />
+<img width="1042" height="278" alt="Задание 2" src="https://github.com/user-attachments/assets/f3e73920-341b-4906-932d-c316f0292484" />  
+Задание 3. Удаление по TTL в Memcached  
+  
+Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.  
+Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.  
+Ответ:  
+<img width="478" height="408" alt="Задание 3" src="https://github.com/user-attachments/assets/4ee68389-7dc1-4de1-a5d7-1e63a6fc614b" />  
